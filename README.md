@@ -1,8 +1,7 @@
 # CryptoCurrencyPrediction
 This is a shiny application built in R.
 
-
-shiny app created is available on
+This shiny app is available on
 https://aniket-bhagwat.shinyapps.io/dissertation/
 ====================================================================================
 
