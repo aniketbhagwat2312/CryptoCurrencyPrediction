@@ -11,7 +11,6 @@ Utils.R contains utility functions used for shiny app.
 data_pre_processing.R contains data cleaning code.
 cleaned_crypto_data.csv contains cleaned dataset.
 crypto-markets.csv contains raw dataset.
-Android_application_code.zip contains code for android application
 application.apk is android application
 ====================================================================================
 How to run shiny application?
